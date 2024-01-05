@@ -7,3 +7,9 @@ Host: https://vishaljangid123.github.io/portfolio
 
 # Sitemaps
 Sitemap: https://vishaljangid123.github.io/portfolio/sitemap.xml
+
+# Host
+Host: https://vishaljangid123.github.io/imageswift-docs
+
+# Sitemaps
+Sitemap: https://vishaljangid123.github.io/imageswift-docs/sitemap.xml
